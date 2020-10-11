@@ -2,17 +2,8 @@
 
 ###### tech used
 
-[nodejs]: https://nodejs.org/en/
-
-, 
-
-[javascript]: https://en.wikipedia.org/wiki/JavaScript
-
- for app
-
-[jest]: https://jestjs.io/
-
-for testing
+nodejs, javascript for app
+jest for testing
 
 ##### instructions
 
