@@ -28,7 +28,9 @@ or
 ###### input:
 
 > 8 8
+>
 > 1 2 E
+>
 > MMLMRMMRRMML
 
 
