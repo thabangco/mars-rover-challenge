@@ -1,4 +1,4 @@
-### mars-rover-chall4eenge
+### mars-rover-challenge
 
 ###### tech used
 
