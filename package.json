@@ -1,0 +1,18 @@
+{
+  "name": "mars-rover-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "jest && node ./app/app.js",
+    "test": "jest"
+  },
+  "author": "thabangco",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
+}

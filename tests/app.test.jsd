@@ -1,0 +1,5 @@
+const roverCommands = require("../app/app");
+
+test("roverCommands should be defined", () => {
+  expect(roverCommands).toBeDefined();
+});
