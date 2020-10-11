@@ -11,7 +11,9 @@ jest for testing
 ###### first, you will need to clone this repo
 
 `$ gh repo clone thabangco/mars-rover-challenge`
+
 or
+
 `$ git clone https://github.com/thabangco/mars-rover-challenge.git`
 
 ###### open command line in the directory
