@@ -9,9 +9,7 @@
   },
   "author": "thabangco",
   "license": "ISC",
-  "dependencies": {
-    "prompt": "^1.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "jest": "^26.5.2"
   }
