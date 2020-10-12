@@ -1,32 +1,32 @@
-### mars-rover-chall4eenge
+### mars-rover-challenge
 
 ###### tech used
 
-[nodejs]: https://nodejs.org/en/
+nodejs, javascript for app
 
-, 
-
-[javascript]: https://en.wikipedia.org/wiki/JavaScript
-
- for app
-
-[jest]: https://jestjs.io/
-
-for testing
+jest for testing
 
 ##### instructions
 
 ###### first, you will need to clone this repo
 
-`$ gh repo clone thabangco/mars-rover-challenge`
+```
+$ gh repo clone thabangco/mars-rover-challenge
+```
+
 or
-`$ git clone https://github.com/thabangco/mars-rover-challenge.git`
+
+```
+$ git clone https://github.com/thabangco/mars-rover-challenge.git
+```
 
 ###### open command line in the directory
 
 ###### run npm install to install project dependencies
 
-`$ npm install`
+```
+$ npm install
+```
 
 
 ###### manage (add, remove, edit) rover commands from the `app/instructions.txt` file
@@ -34,13 +34,17 @@ or
 ###### input:
 
 > 8 8
+>
 > 1 2 E
+>
 > MMLMRMMRRMML
 
 
 ###### start the project
 
-`$ npm start`
+```
+$ npm start
+```
 
 ###### output:
 
@@ -48,4 +52,25 @@ or
 
 ###### run testCases
 
-`$ npm test`
+```
+$ npm test
+```
+
+###### challenges faced
+The instructions were clear on the expected output.
+
+###### design
+```
+app
+  ├── app.js
+  ├── constants.js
+  ├── input.js
+  ├── instructions.js
+  ├── rover.js
+  └── utils.js
+tests
+  ├── calculateOrientation.test.js
+  ├── calculatePosition.test.js
+  └── rover.test.js
+ ```
+
